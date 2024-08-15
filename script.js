@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
                    
                    
                    
-*Invoice Bill from**kamkeithelofficial.store*
+*Invoice Bill from* *kamkeithelofficial.store*
                  
 *Time: ${timestamp}* 
 --------------------------------------
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Encode the message for WhatsApp
         const encodedMessage = encodeURIComponent(invoiceMessage);
-        const whatsappUrl = `https://wa.me/918414075796?text=${encodedMessage}`;
+        const whatsappUrl = `https://wa.me/918732824552?text=${encodedMessage}`;
 
         // Redirect to WhatsApp
         window.open(whatsappUrl, '_blank');
