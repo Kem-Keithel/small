@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const orderForm = document.querySelector('.order-info form');
     const totalPriceSpan = document.getElementById('total-price');
     const orderNowButton = document.querySelector('.order-now');
-    const qrCodeUrl = "https://i.ibb.co/Pjmz1MW/maniyaiofficial-Qr.jpg" ; // Replace with your QR code image URL
+    const qrCodeUrl = "https://i.ibb.co/ydQ5VDL/IMG-0284.jpg" ; // Replace with your QR code image URL
 
     let selectedPackage = null;
 
@@ -36,7 +36,9 @@ document.addEventListener('DOMContentLoaded', () => {
             
 *Payment Method* 
            
-1.  [QR Code](${qrCodeUrl})
+1. No: 9366199853
+2. UPI : anuranjanthiyam1-4@okicici
+3. [QR Code](${qrCodeUrl})
             
 *Please send Screenshot of Payment to complete your order. Thank you!*
         `;
